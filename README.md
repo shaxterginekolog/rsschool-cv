@@ -1,2 +1,2 @@
 # rsschool-cv
-## https://github.com/shaxterginekolog/rsschool-cv/blob/gh-pages/cv.md
+## https://github.com/shaxterginekolog/rsschool-cv/tree/rsschool-cv-html

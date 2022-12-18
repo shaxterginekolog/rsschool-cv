@@ -8,3 +8,5 @@
 #### basic knowledge: HTML, CSS, JavaScript, Python.
 ## English 
 #### I can give information to my teammates in CS:GO
+## Education 
+#### Energy engineer

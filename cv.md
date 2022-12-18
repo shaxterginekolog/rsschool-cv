@@ -10,3 +10,5 @@
 #### I can give information to my teammates in CS:GO
 ## Education 
 #### Energy engineer
+## Hobby
+#### love old japanese cars
